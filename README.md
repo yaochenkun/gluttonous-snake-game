@@ -10,6 +10,6 @@ A simple Gluttonous Snake game implemented with graphics library EasyX in C.
 * Compile the source code file 'xxx.cpp' by VC, and then you can run and play the game.
 
 ## Key Points
-* Design a linked list to store the coordinate of snake's body node.
-* Recognize the direction (up,down,left and right) of snake and decide the snake's head coordinate.
-* Implement the animation of snake's moving.
+* Design __a linked list__ to store the coordinate of snake's body node.
+* Recognize the __direction__ (up,down,left and right) of snake and decide the snake's __head coordinate__.
+* Implement the __animation__ of snake's moving.
