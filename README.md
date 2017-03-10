@@ -1,9 +1,9 @@
 # GluttonousSnakeGame
 A simple Gluttonous Snake game implemented with graphics library EasyX in C.
 ## Screenshot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/snake1.jpg)
+![](http://yaochenkun.cn/wp-content/uploads/2016/07/snake1.jpg)
 
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/snake2.jpg)
+![](http://yaochenkun.cn/wp-content/uploads/2016/07/snake2.jpg)
 
 ## Download and Run
 Just dowanload and open [贪吃蛇.exe](https://github.com/yaochenkun/GluttonousSnakeGame/blob/master/贪吃蛇.exe)
